@@ -1,0 +1,84 @@
+.jt {
+  background-color: #1a252f;
+  padding-top: 3%;
+}
+
+.nb {
+  padding-top: 2%;
+}
+
+.carousel {
+  padding-bottom: 2%;
+}
+
+.carousel-inner {
+  display: block;
+  height: 540px;
+}
+
+th {
+  text-align: center;
+}
+
+td,
+th {
+  width: 20%;
+}
+
+.material-icons {
+  font-size: 16px;
+}
+
+#forms,
+.about-us {
+  color: white;
+  background: #476878;
+  padding-bottom: 5%;
+}
+
+.nb,
+.carousel,
+.footer {
+  color: white;
+  background: #233640;
+}
+
+.about-us {
+  padding-top: 2%;
+  padding-bottom: 5%;
+  padding-left: 17%;
+  padding-right: 17%;
+}
+
+.footer {
+  padding: 5%;
+}
+
+.bio {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.copyrights {
+  background-color: #1a252f;
+  color: white;
+}
+
+
+/* Divider (Horizontal Line) Styling */
+span {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 5em;
+  font-size: 20px;
+}
+
+.outer-line {
+  width: 40%;
+  border-bottom: 5px solid #fff;
+}
+
+.outer-line-dark {
+  width: 40%;
+  border-bottom: 5px solid #233640;
+}
